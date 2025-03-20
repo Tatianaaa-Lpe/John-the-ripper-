@@ -3,7 +3,7 @@
 ## <ins>Présentation:<ins>
 
 Le projet présenté a pour but d'utiliser le logiciel John-the-ripper afin de tester la robustesse de mot de passe sur un poste client. 
-Ces tests sont exécutés via des VM, une machine serveur et une machine client.
+Ces tests sont exécutés via des VM (Machines Virtuelles). Une machine serveur et une machine client.
 
 ## <ins>Introduction:<ins>
 
