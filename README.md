@@ -5,10 +5,23 @@ Ces tests sont exécutés via des VM, une machine serveur et une client.
 
 Introduction:
 
+John-the-ripper c'est quoi?
+
 John-the-ripper est un logiciel de cassage de mot de passe utilisé, par exemple, pour tester la robustesse de mot de passe. Il a d'abord été développer pour tourner sous des systèmes dérivés d'UNIX mais le programme fonctionne aujourd'hui sous d'autres plateformes.
 Il est l'un des logiciels les plus populaires car il inclut l'autodétection des fonctions de hachage (une fonction mathématique qui brouille les données pour les rendre illisibles) est utilisées pour stockées les mots de passe. 
 
 Source Wikipédia.
+ 
+Les actions qu'il peut faire:
+
+John-the-ripper à plusieurs modes d'action. Les plus fréquentes sont les méthodes:
+  
+> simple (utilisation du nom utilisateur pour casser les mots de passe les plus simples)
+> Par dictionnaire (utilise une liste de mots en utilisant aussi le nom utilisateur)
+> Incrémental il essayera toutes les combinaisons possibles
+
+Bien évidemment, plus un mot de passe est compliqué, plus sa recherche sera longue.
+
 
 
 
