@@ -16,9 +16,9 @@ Il est l'un des logiciels les plus populaires car il inclut une autodétection d
 
 John-the-ripper à plusieurs modes d'action. Les plus fréquentes sont les méthodes:
   
-> simple (utilisation du nom utilisateur pour casser les mots de passe les plus simples)
-> Par dictionnaire (utilise une liste de mots en utilisant aussi le nom utilisateur)
-> Incrémental il essayera toutes les combinaisons possibles
++ simple (utilisation du nom utilisateur pour casser les mots de passe les plus simples)
++ Par dictionnaire (utilise une liste de mots en utilisant aussi le nom utilisateur)
++ Incrémental il essayera toutes les combinaisons possibles
 
 Bien évidemment, plus un mot de passe est compliqué, plus sa recherche sera longue.
 
