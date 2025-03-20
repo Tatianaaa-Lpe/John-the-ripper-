@@ -1,2 +1,8 @@
 Installation de John-the-ripper
 
+Sur une machine Ubuntu, via le terminal nous allons utiliser les commandes suivantes:
+
+  - sudo snap install john-the-ripper
+
+
+
