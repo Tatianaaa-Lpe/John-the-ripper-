@@ -22,6 +22,10 @@ John-the-ripper à plusieurs modes d'action. Les plus fréquentes sont les méth
 
 Bien évidemment, plus un mot de passe est compliqué, plus sa recherche sera longue.
 
+John-the-ripper peut casser des mots de passe avec différentes fonction de hachage avec des algorithmes comme MD5 (fonction de hachage cryptographique)
+
+
+
 
 
 
