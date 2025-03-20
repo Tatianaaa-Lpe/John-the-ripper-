@@ -22,7 +22,7 @@ John-the-ripper à plusieurs modes d'action. Les plus fréquentes sont les méth
 
 Bien évidemment, plus un mot de passe est compliqué, plus sa recherche sera longue.
 
-John-the-ripper peut casser des mots de passe avec différentes fonction de hachage avec des algorithmes comme MD5 (fonction de hachage cryptographique), blowfish, Kerberos, AFS, et les LM hashes de Windows NT/2000/XP/2003. 
+John-the-ripper peut casser des mots de passe avec différentes fonctions de hachage avec des algorithmes comme MD5, blowfish, Kerberos, AFS, et les LM hashes de Windows NT/2000/XP/2003. 
 On peut le complèter avec des modules additionnels pour qu'il puisse casser des mots de passe basés sur les hash MD4 ainsi que MySQL, LDAP, NTLM.
 
 
